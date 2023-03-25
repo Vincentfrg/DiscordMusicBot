@@ -1,0 +1,23 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Music BOT for discord ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vincentfrg/DiscordMusicBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vincentfrg/DiscordMusicBot/issues"
+  },
+  "homepage": "https://github.com/Vincentfrg/DiscordMusicBot#readme",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "discord.js-commando": "github:discordjs/Commando"
+  }
+}
